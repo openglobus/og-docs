@@ -1,0 +1,2 @@
+# og-docs
+OpenGlobus Documentation
